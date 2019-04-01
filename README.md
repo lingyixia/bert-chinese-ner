@@ -1,7 +1,9 @@
 # bert-chinese-ner
 
 使用预训练语言模型BERT做中文NER尝试，fine - tune BERT模型
+
 [教程](https://blog.csdn.net/weixin_42441790/article/details/86751031#Google_BERTNER_5)
+
 代码参考
 
 - **[BERT-NER](https://github.com/kyzhouhzau/BERT-NER)，想看英文原版请务必移步**
